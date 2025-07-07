@@ -1,5 +1,5 @@
 Fiş Tanıma Sistemi
-Bu proje, görsel fişlerdeki fiş numarasını otomatik olarak tanıyan bir sistemdir. Python tabanlı geliştirilen uygulama, makine öğrenmesi ve görüntü işleme tekniklerini kullanarak fiş numaralarını yüksek doğrulukla tanımlar.
+Bu proje, görsel fişlerdeki fiş numarasını otomatik olarak tanıyan bir sistemdir. Python tabanlı geliştirilen uygulama, makine öğrenmesi ve görüntü işleme tekniklerini kullanarak fiş numaralarını tanımlar.
 
 Özellikler
 
