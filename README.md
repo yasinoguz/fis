@@ -25,6 +25,4 @@ Kullanım
 
 Tanımlanan fiş numarasını ve işlenen görseli inceleyin
 
-
-
-![Ekran görüntüsü 2025-07-07 120458](https://github.com/user-attachments/assets/cbf54e94-fab9-489e-91c6-ae311ac924c9)
+![Açıklama metni](photo/1.png)
