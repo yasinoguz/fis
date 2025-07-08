@@ -25,4 +25,4 @@ Kullanım
 
 Tanımlanan fiş numarasını ve işlenen görseli inceleyin
 
-![Açıklama metni](photo/1.png)
+(https://github.com/yasinoguz/reading-receipt-number/blob/main/receipt_number_recognition/photo/1.png)
