@@ -26,4 +26,5 @@ Kullanım
 Tanımlanan fiş numarasını ve işlenen görseli inceleyin
 
 ![Proje Önizleme](receipt_number_recognition/photo/1.png)
+![Proje Önizleme](receipt_number_recognition/photo/2.png)
 
